@@ -6,7 +6,7 @@ _site/
 /**/.DS_Store
 
 
-
+.idea/
 .metadata
 bin/
 tmp/
